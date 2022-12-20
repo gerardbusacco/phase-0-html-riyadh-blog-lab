@@ -30,18 +30,18 @@ h1, h2 {
 }
 
 h1 {
-  font-size: 3.5em;
+  font-size: 4.5em;
   margin-bottom: 0;
 }
 
 h2 {
-  font-size: 1.5em;
+  font-size: 2.5em;
   margin-top: .5em;
 }
 
 h3 {
-  font-family: 'Gabriela', serif;
-  font-size: 1.5em;
+  font-family: 'Andrea', serif;
+  font-size: 2.5em;
   margin-top: .5em;
 }
 
@@ -52,11 +52,11 @@ img {
 }
 
 p {
-  font-size: 1em;
+  font-size: 2em;
 }
 
 a {
-  color: black;
+  color: blue;
   text-decoration: none;
 }
 
@@ -72,13 +72,13 @@ a:hover {
 
 @media only screen and (max-width: 784px) {
   body {
-    font-size: 120%;
+    font-size: 130%;
   }
   h1 {
-    font-size: 2.5em;
+    font-size: 3.5em;
   }
   h2 {
-    font-size: 1em;
+    font-size: 2em;
   }
   .wrapper {
     width: 95%;
